@@ -2,5 +2,6 @@
 
  It is entirely coded using google colab!
 
+ uses libraries like webbrowser . numpy , pandas  for browsing the book in the amazon, visualizing data and for computational purposes.
 
 
